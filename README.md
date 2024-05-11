@@ -1,12 +1,14 @@
 ![logo](Assest/GitHubBlue.jpg)
 # My First Repository 
+<p><b>
 Hey GitHub Community 👋 I am Atharva,
 This My First Repository....
 Just Trying To Figure Out How thing Work Here..!!
 Currently Exploring this Unreal Realm of GitHub !
 Ready to Bridge this Digital Realm. 
-Eager To Explore, Learn and Innovative....!!!
-
+Eager To Explore, Learn and Innovative....!!!<b>
+<p>
+     
 ## 🔗 Links
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AtharvKote)
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharva-kote)
