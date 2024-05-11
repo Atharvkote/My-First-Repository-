@@ -1,4 +1,4 @@
-![logo](coding-.png)
+![logo](github.jpeg)
 # My-First-Repository-
 Hey GitHub Community 👋 I am Atharva,
 This My First Repository....
