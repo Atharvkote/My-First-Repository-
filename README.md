@@ -1,5 +1,5 @@
 ![logo](github.jpeg)
-# My-First-Repository-
+# My First Repository 
 Hey GitHub Community 👋 I am Atharva,
 This My First Repository....
 Just Trying To Figure Out How thing Work Here..!!
